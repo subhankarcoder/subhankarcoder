@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://static.vecteezy.com/system/resources/thumbnails/006/362/890/small/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg"/>
+<img width="100%" height="auto" src="https://img.freepik.com/free-vector/programming-concept-isometric-icon-laptop-with-program-code-screen-data-visualization-dark-neon_39422-951.jpg?w=996&t=st=1694365874~exp=1694366474~hmac=6410551f921e1671b47fe855588b7d21fd2637f411b7ec13dd2a74dc3836a22e"/>
 <h1 align="center">Hi 👋, I'm Subhankar Chakrabarti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
