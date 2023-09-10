@@ -1,6 +1,7 @@
 <img width="100%" height="auto" src="https://img.freepik.com/free-vector/programming-concept-isometric-icon-laptop-with-program-code-screen-data-visualization-dark-neon_39422-951.jpg?w=996&t=st=1694365874~exp=1694366474~hmac=6410551f921e1671b47fe855588b7d21fd2637f411b7ec13dd2a74dc3836a22e"/>
 <h1 align="center">Hi 👋, I'm Subhankar Chakrabarti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=826&t=st=1694366003~exp=1694366603~hmac=c4b0473b91c0901d8119c8e3dcf463180c101f5e89acf098d4f94d80839a7faa)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="subhankarcoder" /> </p>
 
