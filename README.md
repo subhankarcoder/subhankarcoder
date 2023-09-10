@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="subhankarcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankarcoder" alt="subhankarcoder" /></a> </p>
-
 - 🔭 I’m currently working on **Allio.ai**
 
 - 💬 Ask me about **html,css,javascript,node,C**
