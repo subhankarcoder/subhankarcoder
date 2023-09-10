@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img src="https://static.vecteezy.com/system/resources/thumbnails/006/362/890/small/programming-and-software-development-web-page-banner-program-code-on-screen-device-software-development-coding-process-concept-vector.jpg"/>
 <h1 align="center">Hi 👋, I'm Subhankar Chakrabarti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
