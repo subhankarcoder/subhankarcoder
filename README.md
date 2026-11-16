@@ -1,26 +1,97 @@
-<h1 align="center">Hi 👋, I'm Subhankar Chakrabarti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# SUBHANKAR CHAKRABARTI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhankarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="subhankarcoder" /> </p>
+**Technology Executive · Entrepreneur · AI & Systems Architect**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhankarcoder" alt="subhankarcoder" /></a> </p>
+Building technology-driven businesses, intelligent systems, and scalable digital infrastructure.
 
-- 🔭 I’m currently working on **ats LLP**
+[LinkedIn](https://www.linkedin.com/in/subhankar-chakrabarti/) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
 
-- 💬 Ask me about **html,css,javascript,node,C**
+---
 
-- 📫 How to reach me **subhankarchakrabarti0@gmail.com**
+### THE BIGGER PICTURE
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subhankar chakrabarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhankar chakrabarti" height="30" width="40" /></a>
-<a href="https://fb.com/subhankar chakrabarti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhankar chakrabarti" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithmood" height="30" width="40" /></a>
-</p>
+I operate at the intersection of technology, business strategy, and innovation.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+As a technology leader at **EBS Global**, my work revolves around translating business objectives into technology strategy, leading engineering initiatives, and developing digital products designed for real-world scale.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhankarcoder&show_icons=true&locale=en&layout=compact" alt="subhankarcoder" /></p>
+My approach combines the technical depth of an engineer with the strategic perspective of a business operator.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhankarcoder&show_icons=true&locale=en" alt="subhankarcoder" /></p>
+I am particularly interested in building organizations and systems where technology isn't simply a support function — it is a competitive advantage.
+
+---
+
+### AREAS OF LEADERSHIP
+
+| Domain | Focus |
+|---|---|
+| **Technology Strategy** | Technical vision, architecture, engineering roadmaps |
+| **Product Engineering** | Enterprise platforms, SaaS, digital ecosystems |
+| **Artificial Intelligence** | Applied AI, intelligent automation, ML research |
+| **Infrastructure & Systems** | Cloud architecture, distributed systems, scalability |
+| **Business & Innovation** | Product strategy, digital transformation, execution |
+
+---
+
+### BUILDING & OPERATING
+
+**EBS GLOBAL**
+
+*Technology & Digital Solutions*
+
+Contributing to the technology vision and engineering direction of a multi-disciplinary technology business spanning software engineering, digital transformation, AI, and automation.
+
+Focus areas:
+- Enterprise software and digital product development.
+- AI-powered systems and intelligent automation.
+- Technology architecture and infrastructure.
+- Engineering operations and product execution.
+
+---
+
+### TECHNOLOGY & ENGINEERING
+
+My technical foundation spans several interconnected disciplines.
+
+**Artificial Intelligence & Research**
+
+Machine Learning · Deep Learning · Graph Neural Networks · LLMs · RAG · AI Agents · Intelligent Automation
+
+**Software & Product Engineering**
+
+Python · TypeScript · JavaScript · React · Next.js · Node.js · React Native · REST APIs
+
+**Data & Infrastructure**
+
+PostgreSQL · MongoDB · Redis · Docker · AWS · Linux · Nginx · Cloudflare · Prometheus · Grafana
+
+**Engineering Philosophy**
+
+Architecture before implementation. Reliability before shortcuts. Systems designed for evolution rather than temporary fixes.
+
+---
+
+### RESEARCH & INNOVATION
+
+My research interests include graph-based learning, intelligent fraud detection, advanced neural architectures, and the practical application of AI in business environments.
+
+One of my research explorations involves applying Graph Neural Networks to the IEEE-CIS Fraud Detection dataset, investigating heterogeneous graph architectures, message passing, and hybrid tabular-graph learning approaches.
+
+I am particularly interested in the transition of AI research into production-grade systems.
+
+---
+
+### CONNECT
+
+For business conversations, technology collaborations, strategic discussions, or interesting ideas:
+
+**Subhankar Chakrabarti**
+
+[LinkedIn](https://www.linkedin.com/in/subhankar-chakrabarti/)
+
+---
+
+<div align="center">
+
+*Building at the intersection of business, technology, and intelligence.*
+
+</div>
